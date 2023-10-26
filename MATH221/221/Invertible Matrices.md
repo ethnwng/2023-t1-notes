@@ -1,0 +1,1 @@
+*Def* An $n\times n$ matrix $A$ is **invertible** if there exists a matrix B such that $AB=BA=Id_n$ 
