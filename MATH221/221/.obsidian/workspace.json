@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d799a2d574f9189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/oct 27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invertible Matrices.md",
+                "file": "Lecture Notes/oct 27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invertible Matrices.md",
+                "file": "Lecture Notes/oct 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invertible Matrices.md"
+                "file": "Lecture Notes/oct 27.md"
               }
             }
           },
@@ -201,13 +213,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da80a97f62f484c2",
+  "active": "0d799a2d574f9189",
   "lastOpenFiles": [
+    "Invertible Matrices.md",
+    "Lecture Notes/oct 27.md",
     "Standard Matrix of a Lin. Transformation.md",
     "linear transformations.md",
     "Column Space.md",
     "Subspaces.md",
-    "Invertible Matrices.md",
     "Basis.md",
     "Lecture Notes/Oct 23.md",
     "other transformations.md",
