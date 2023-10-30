@@ -1,4 +1,4 @@
-**Uses of inverse matrices**
+**Uses of [[Invertible Matrices]]**
 If $A$ has an inverse it means that in RREF it must be the identity matrix. Therefore
 $$A\mathbf{x}=\mathbf{b}$$
 Will always have one solution

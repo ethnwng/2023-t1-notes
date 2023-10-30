@@ -6,6 +6,7 @@ $B=A^{-1}$
 ##### To check when a matrix is the inverse of the other
 - AB should equal the identity
 - BA should also equal the identity
+- pivots in every column and row
 
 
 To check if a matrix $A$ is invertible
