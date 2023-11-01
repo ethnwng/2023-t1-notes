@@ -7,3 +7,4 @@ If $A=(a_{ij})$ is an $n\times m$ matrix, the *transpose* of $A$, denoted $A^T$ 
 $$A=\begin{pmatrix}1 & 4 & 5\\1 & 2 & 6\\2 & -1 & 3\end{pmatrix}$$
 $$A^{T}=\begin{pmatrix}1 & 1 & 2\\4 & 2 & -1 \\ 5 & 6 & 3\end{pmatrix}$$
 - The determinant of a transpose is always equal to the determinant of A, if $A$ is $n\times n$
+

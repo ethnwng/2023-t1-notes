@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Nov 1.md",
+                "file": "cofactor expansion.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes/Nov 1.md",
+                "file": "cofactor expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Notes/Nov 1.md",
+                "file": "cofactor expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Notes/Nov 1.md"
+                "file": "cofactor expansion.md"
               }
             }
           },
@@ -263,11 +263,13 @@
   },
   "active": "39e8a9b1fc946ed8",
   "lastOpenFiles": [
-    "Lecture Notes/oct 30.md",
+    "Determinant.md",
+    "cofactor expansion.md",
     "Lecture Notes/Nov 1.md",
+    "Untitled.canvas",
+    "Lecture Notes/oct 30.md",
     "Untitled",
     "Lecture Notes/oct 27.md",
-    "Determinant.md",
     "Invertible Transformations.md",
     "Lecture Notes/Oct 23.md",
     "Invertible Matrices.md",
@@ -289,7 +291,6 @@
     "Span.md",
     "Solution Set.md",
     "Transformations.md",
-    "Parametric Vector Form.md",
     "Lecture Notes"
   ]
 }
