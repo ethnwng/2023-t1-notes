@@ -8,123 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38437eed0e90756b",
+            "id": "5aa1cd13d02b02ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Null Space.md",
+                "file": "Column Space.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ff503e3e63b0901",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc135317b55dc9cf",
+            "id": "8684ae0256300c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition of Transformations.md",
+                "file": "Eigenvector.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d169f9136640809",
+            "id": "605f434f1baf4c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da80a97f62f484c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invertible Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d799a2d574f9189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/oct 30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e8a9b1fc946ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cofactor expansion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d26479b095ace6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invertible Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fcda6adac5e0e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invertible Transformations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16cf99346bfd0b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Determinant.md",
+                "file": "Eigenvector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dad8894ff193a2dc",
@@ -191,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cofactor expansion.md",
+                "file": "Eigenvector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cofactor expansion.md",
+                "file": "Eigenvector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cofactor expansion.md"
+                "file": "Eigenvector.md"
               }
             }
           },
@@ -262,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39e8a9b1fc946ed8",
+  "active": "605f434f1baf4c30",
   "lastOpenFiles": [
+    "Eigenvalue.md",
+    "Eigenvector.md",
+    "Column Space.md",
+    "Lecture Notes/nov 6.md",
+    "standard coordinates vectors.md",
     "Determinant.md",
     "cofactor expansion.md",
     "Lecture Notes/Nov 1.md",
@@ -276,7 +200,6 @@
     "Invertible Matrices.md",
     "Standard Matrix of a Lin. Transformation.md",
     "linear transformations.md",
-    "Column Space.md",
     "Subspaces.md",
     "Basis.md",
     "other transformations.md",
@@ -288,10 +211,6 @@
     "Rank.md",
     "Bases and Dimension.md",
     "Linear Combination.md",
-    "Linear Independence.md",
-    "Span.md",
-    "Solution Set.md",
-    "Transformations.md",
     "Lecture Notes"
   ]
 }

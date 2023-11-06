@@ -24,3 +24,6 @@ Given two matrices $A,B$ $$det(A)\cdot det(B) = det(AB)$$
 
 ###### Computing Determinants
 To compute a determinant we use [[cofactor expansion]] 
+
+
+**determinants can prove if a set of vectors are linearly in/dependent, a set of vectors is dependent when $det=0$ and independent when the $det\neq 0$
