@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd7e087b595420f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases and Dimension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "980783c97210d725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eigenspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eigenvector.md",
+                "file": "Eigenspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eigenvector.md",
+                "file": "Eigenspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eigenvector.md"
+                "file": "Eigenspace.md"
               }
             }
           },
@@ -181,10 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "605f434f1baf4c30",
+  "active": "980783c97210d725",
   "lastOpenFiles": [
-    "Eigenvalue.md",
+    "Bases and Dimension.md",
+    "Eigenspace.md",
+    "Untitled",
+    "Lecture Notes/Nov 8.md",
     "Eigenvector.md",
+    "Eigenvalue.md",
     "Column Space.md",
     "Lecture Notes/nov 6.md",
     "standard coordinates vectors.md",
@@ -193,7 +221,6 @@
     "Lecture Notes/Nov 1.md",
     "Untitled.canvas",
     "Lecture Notes/oct 30.md",
-    "Untitled",
     "Lecture Notes/oct 27.md",
     "Invertible Transformations.md",
     "Lecture Notes/Oct 23.md",
@@ -208,9 +235,6 @@
     "Rank Theorem.md",
     "Null Space.md",
     "Nullity.md",
-    "Rank.md",
-    "Bases and Dimension.md",
-    "Linear Combination.md",
     "Lecture Notes"
   ]
 }
