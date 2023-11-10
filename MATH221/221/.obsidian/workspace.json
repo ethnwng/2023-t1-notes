@@ -68,12 +68,14 @@
             }
           },
           {
-            "id": "d3104a14f31accbb",
+            "id": "f01f4d4e0b61ce6f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Lecture Notes/nov 10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eigenspace.md",
+                "file": "Lecture Notes/nov 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eigenspace.md",
+                "file": "Lecture Notes/nov 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eigenspace.md"
+                "file": "Lecture Notes/nov 10.md"
               }
             }
           },
@@ -215,14 +217,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3104a14f31accbb",
+  "active": "f01f4d4e0b61ce6f",
   "lastOpenFiles": [
-    "Bases and Dimension.md",
     "Eigenspace.md",
+    "Lecture Notes/nov 10.md",
+    "Eigenvalue.md",
+    "Bases and Dimension.md",
+    "Eigenvector.md",
     "Untitled",
     "Lecture Notes/Nov 8.md",
-    "Eigenvector.md",
-    "Eigenvalue.md",
     "Column Space.md",
     "Lecture Notes/nov 6.md",
     "standard coordinates vectors.md",
@@ -244,7 +247,6 @@
     "Composition of Transformations.md",
     "Rank Theorem.md",
     "Null Space.md",
-    "Nullity.md",
     "Lecture Notes"
   ]
 }
