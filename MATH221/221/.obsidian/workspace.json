@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f23762689c2cbcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Similarity and Diagonalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ab123028204ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/nov 17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aab0f5af2ebc7348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Similarity and Diagonalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes/nov 10.md",
+                "file": "Similarity and Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Notes/nov 10.md",
+                "file": "Similarity and Diagonalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Notes/nov 10.md"
+                "file": "Similarity and Diagonalization.md"
               }
             }
           },
@@ -217,10 +253,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01f4d4e0b61ce6f",
+  "active": "aab0f5af2ebc7348",
   "lastOpenFiles": [
-    "Eigenspace.md",
+    "Untitled.md",
+    "Lecture Notes/nov 17.md",
+    "Similarity and Diagonalization.md",
     "Lecture Notes/nov 10.md",
+    "Eigenspace.md",
     "Eigenvalue.md",
     "Bases and Dimension.md",
     "Eigenvector.md",
@@ -244,9 +283,6 @@
     "Basis.md",
     "other transformations.md",
     "Lecture Notes/Sept 22.md",
-    "Composition of Transformations.md",
-    "Rank Theorem.md",
-    "Null Space.md",
     "Lecture Notes"
   ]
 }
