@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Similarity and Diagonalization.md",
+                "file": "Lecture Notes/nov 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Similarity and Diagonalization.md",
+                "file": "Lecture Notes/nov 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Similarity and Diagonalization.md",
+                "file": "Lecture Notes/nov 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Similarity and Diagonalization.md"
+                "file": "Lecture Notes/nov 20.md"
               }
             }
           },
@@ -255,9 +255,9 @@
   },
   "active": "aab0f5af2ebc7348",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Lecture Notes/nov 17.md",
     "Similarity and Diagonalization.md",
+    "Lecture Notes/nov 20.md",
+    "Lecture Notes/nov 17.md",
     "Lecture Notes/nov 10.md",
     "Eigenspace.md",
     "Eigenvalue.md",
