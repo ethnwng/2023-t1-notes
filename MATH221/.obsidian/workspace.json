@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ccd6101643674ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "34f242b509806f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4f971f04aaa3c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "221/Rank Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8821e0467ae41ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "506eea0b52ef5cf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4373461aff5cd03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efaeb37ac1abba7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8f471b0ae17f5fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "398c4bb253f6fc0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e21968e9edbfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "778d6d41753c2be9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "221/Rank Theorem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c7bc4a6d5919d89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "221/Rank Theorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aac7bac25b8ac46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2d0f9faf924dd76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "221/Rank Theorem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c4f971f04aaa3c8",
+  "lastOpenFiles": [
+    "221/cofactor expansion.md",
+    "221/Rank Theorem.md",
+    "221/Composition of Transformations.md"
+  ]
+}
