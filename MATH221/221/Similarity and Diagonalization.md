@@ -12,3 +12,6 @@ A diagonal matrix $D$ is diagonalisable
 $$D=InDIn^{-1}$$
 Calculations become simpler if $A = CDC^{-1}$. Then taking powers of $A$ becomes easier since the power of diagonal matrices is easy to compute and we can write them as. $$A^{2}=CD^{2}C^{-1}$$
 Or more generally $$A^{n}=CD^{n}C^{-1}$$
+
+**$D$ and $A$ have the same [[Eigenvalue]]s, and the columns of $C$ are the corresponding eigenvectors.**
+
