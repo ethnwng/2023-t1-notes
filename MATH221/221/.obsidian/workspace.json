@@ -92,30 +92,6 @@
             }
           },
           {
-            "id": "59ab123028204ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/nov 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aab0f5af2ebc7348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/nov 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8951db93e8a77ea9",
             "type": "leaf",
             "state": {
@@ -150,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a03a1ca74791a064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonal Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -289,10 +277,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bf69f6a53771773",
+  "active": "a03a1ca74791a064",
   "lastOpenFiles": [
-    "Dot Products.md",
+    "Row Space.md",
     "Orthogonal Vectors.md",
+    "Dot Products.md",
     "Bases and Dimension.md",
     "Eigenspace.md",
     "Untitled",
@@ -318,7 +307,6 @@
     "Invertible Matrices.md",
     "Standard Matrix of a Lin. Transformation.md",
     "linear transformations.md",
-    "Subspaces.md",
     "Lecture Notes"
   ]
 }
