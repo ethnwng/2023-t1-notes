@@ -1,4 +1,4 @@
-*Trying to prove that all [[linear transformations]] are Matrix Transformations*
+*Trying to prove that all [[Linear transformations]] are Matrix Transformations*
 Given the standard basis vector $\vec{e_{i}}\in \mathbb{R}^n$ $$\vec{e_{i}}= \begin{pmatrix}0\\0\\1\\\vdots \\ 0 \end{pmatrix}$$ Where the $1$ shows up in the $i_{th}$ position and the rest of the entries are zero.
 
 Let $T$ be a linear transformation $\mathbb{R}^{n}\longrightarrow \mathbb{R}^m$. 

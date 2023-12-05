@@ -8,139 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aa1cd13d02b02ad",
+            "id": "417274f3e42c243e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Column Space.md",
+                "file": "Reflection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8684ae0256300c12",
+            "id": "33ec7e0d184e9def",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eigenvector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "605f434f1baf4c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eigenvector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd7e087b595420f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases and Dimension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "980783c97210d725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eigenspace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f01f4d4e0b61ce6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/nov 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f23762689c2cbcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Similarity and Diagonalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8951db93e8a77ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases and Dimension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9f51ba8d1878b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dot Products.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bf69f6a53771773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonal Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a03a1ca74791a064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonal Vectors.md",
+                "file": "Standard Matrix of a Lin. Transformation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonal Vectors.md",
+                "file": "Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonal Vectors.md",
+                "file": "Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonal Vectors.md"
+                "file": "Reflection.md"
               }
             }
           },
@@ -277,36 +168,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a03a1ca74791a064",
+  "active": "417274f3e42c243e",
   "lastOpenFiles": [
-    "Row Space.md",
-    "Orthogonal Vectors.md",
-    "Dot Products.md",
-    "Bases and Dimension.md",
-    "Eigenspace.md",
-    "Untitled",
-    "Lecture Notes/Nov 8.md",
-    "Similarity and Diagonalization.md",
-    "Diagonalization.md",
-    "Lecture Notes/nov 20.md",
-    "Lecture Notes/nov 17.md",
-    "Lecture Notes/nov 10.md",
-    "Eigenvalue.md",
-    "Eigenvector.md",
-    "Column Space.md",
-    "Lecture Notes/nov 6.md",
-    "standard coordinates vectors.md",
+    "Pasted image 20231203212131.png",
+    "Standard Matrix of a Lin. Transformation.md",
+    "Reflection.md",
+    "Pasted image 20231203195247.png",
+    "Pasted image 20231203194654.png",
+    "Span.md",
+    "Solution Set.md",
+    "Augmented Matrices.md",
+    "Vector Equations.md",
+    "Transformations.md",
+    "Subspaces.md",
+    "Subset.md",
+    "Pasted image 20231203185704.png",
+    "Linear System.md",
+    "Linear Equation.md",
     "Determinant.md",
     "cofactor expansion.md",
-    "Lecture Notes/Nov 1.md",
+    "Column Space.md",
+    "Basis.md",
+    "Bases and Dimension.md",
+    "Linear Combination.md",
+    "other transformations.md",
+    "Orthogonal Vectors.md",
+    "Dot Products.md",
+    "Similarity and Diagonalization.md",
+    "Lecture Notes/nov 10.md",
+    "Eigenspace.md",
+    "Eigenvector.md",
+    "Linear transformations.md",
+    "Untitled",
     "Untitled.canvas",
-    "Lecture Notes/oct 30.md",
-    "Lecture Notes/oct 27.md",
-    "Invertible Transformations.md",
-    "Lecture Notes/Oct 23.md",
-    "Invertible Matrices.md",
-    "Standard Matrix of a Lin. Transformation.md",
-    "linear transformations.md",
     "Lecture Notes"
   ]
 }
