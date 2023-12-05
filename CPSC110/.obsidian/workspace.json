@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "ccd6101643674ac4",
+    "id": "fa10052b700d1e70",
     "type": "split",
     "children": [
       {
-        "id": "34f242b509806f57",
+        "id": "b3590928b35b87cd",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4f971f04aaa3c8",
+            "id": "66d03c689aaa94a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "221/Rank Theorem.md",
+                "file": "Genrec.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3e98d158d8c3993",
+            "id": "1b318db8523b1a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "221/Bases and Dimension.md",
+                "file": "Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8821e0467ae41ac0",
+    "id": "20823e350d882c9d",
     "type": "split",
     "children": [
       {
-        "id": "506eea0b52ef5cf9",
+        "id": "90a216cfda72bbc8",
         "type": "tabs",
         "children": [
           {
-            "id": "a4373461aff5cd03",
+            "id": "09abb81dea9a40e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "efaeb37ac1abba7f",
+            "id": "6b2890ba96237726",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "c8f471b0ae17f5fe",
+            "id": "13a76b60594a8663",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "398c4bb253f6fc0d",
+    "id": "6b61e0f3eba4ce5e",
     "type": "split",
     "children": [
       {
-        "id": "e3e21968e9edbfec",
+        "id": "9170895bce28e602",
         "type": "tabs",
         "children": [
           {
-            "id": "778d6d41753c2be9",
+            "id": "c269a4a526a20a6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "221/Bases and Dimension.md",
+                "file": "Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
             }
           },
           {
-            "id": "9c7bc4a6d5919d89",
+            "id": "2474128caa001a91",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "221/Bases and Dimension.md",
+                "file": "Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3aac7bac25b8ac46",
+            "id": "c3d5839504209de7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +133,12 @@
             }
           },
           {
-            "id": "f2d0f9faf924dd76",
+            "id": "11ec2301c4472375",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "221/Bases and Dimension.md"
+                "file": "Search.md"
               }
             }
           }
@@ -159,18 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3e98d158d8c3993",
+  "active": "1b318db8523b1a34",
   "lastOpenFiles": [
-    "221/Basis.md",
-    "221/Linear Independence.md",
-    "221/Bases and Dimension.md",
-    "221/Onto and one-to-one.md",
-    "221/Determinant.md",
-    "221/Eigenspace.md",
-    "221/Composition of Transformations.md",
-    "221/Standard Matrix of a Lin. Transformation.md",
-    "221/Lecture Notes/nov 20.md",
-    "221/cofactor expansion.md",
-    "221/Rank Theorem.md"
+    "Genrec.md",
+    "Search.md",
+    "Structural Recursion.md",
+    "Untitled"
   ]
 }
