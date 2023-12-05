@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "221/Bases and Dimension.md",
+                "file": "221/Orthogonal Decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "221/Bases and Dimension.md",
+                "file": "221/Orthogonal Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "221/Bases and Dimension.md",
+                "file": "221/Orthogonal Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "221/Bases and Dimension.md"
+                "file": "221/Orthogonal Decomposition.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "a3e98d158d8c3993",
   "lastOpenFiles": [
+    "221/Reflection.md",
+    "221/Bases and Dimension.md",
     "221/Basis.md",
     "221/Linear Independence.md",
-    "221/Bases and Dimension.md",
     "221/Onto and one-to-one.md",
     "221/Determinant.md",
     "221/Eigenspace.md",
