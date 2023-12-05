@@ -3,7 +3,7 @@ $$\begin{align*}T:\mathbb{R}^{n} \rightarrow\mathbb{R}^{m}\\ u: \mathbb{R}^{p}  
 
 Given $T\circ U(c\vec{u})$
 
-If both $T$ and $U$ are [[linear transformations]] then the composition of them is linear. 
+If both $T$ and $U$ are [[Linear transformations]] then the composition of them is linear. 
 
 
 
